@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700');
+
+header {
+    margin: 0;
+    margin-left: 10px
+}
+<!--css coppied from resume-->
+.logo {
+    background: url("../images/fire-tube-boiler.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    }
